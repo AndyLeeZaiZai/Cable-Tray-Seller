@@ -11,9 +11,9 @@ Cable Tray
 This is cable tray.
 
 #### Specification
-Name | Length | Width
------------- | ------------ | -------------
-H1Z1 | 1000mm | 500mm
-H2Z2 | 1500mm | 1000mm
+|Name | Length | Width |
+|---- | ------ | ------| 
+|H1Z1 | 1000mm | 500mm |
+|H2Z2 | 1500mm | 1000mm|
 
 #### Links
